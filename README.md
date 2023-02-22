@@ -4,7 +4,7 @@ This library turns bytes into bits and allows them to be encrypted with a passwo
 ```bash
 pip install shifrator
 ```
-# Using:
+## Using:
 ```python
 from shifrator import BitArray
 data = BitArray('Hello'.encode('UTF-8'))

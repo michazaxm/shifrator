@@ -2,7 +2,7 @@
 This library turns bytes into bits and allows them to be encrypted with a password
 # Installing:
 ```bash
-pip install shifrator
+pip install bit-shifrator
 ```
 # Using:
 ### BitEncode
